@@ -1,0 +1,16 @@
+C:\Users\PEDRO\Documents\SharpDevelop Projects\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\PEDRO\Documents\SharpDevelop Projects\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\PEDRO\Documents\SharpDevelop Projects\proyecto\proyecto\bin\Debug\proyecto.dll
+C:\Users\PEDRO\Documents\SharpDevelop Projects\proyecto\proyecto\bin\Debug\IronPython.dll
+C:\Users\PEDRO\Documents\SharpDevelop Projects\proyecto\proyecto\bin\Debug\IronPython.Modules.dll
+C:\Users\PEDRO\Documents\SharpDevelop Projects\proyecto\proyecto\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\PEDRO\Documents\SharpDevelop Projects\proyecto\proyecto\bin\Debug\Microsoft.Scripting.dll
+C:\Users\PEDRO\Documents\SharpDevelop Projects\proyecto\proyecto\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\PEDRO\Documents\SharpDevelop Projects\proyecto\proyecto\obj\Debug\proyecto.pyprojResolveAssemblyReference.cache
+C:\Users\PEDRO\Documents\SharpDevelop Projects\proyecto\proyecto\obj\Debug\proyecto.MainForm.resources
+C:\Users\PEDRO\Documents\SharpDevelop Projects\proyecto\proyecto\obj\Debug\proyecto.pyproj.GenerateResource.Cache
+C:\Users\PEDRO\Documents\SharpDevelop Projects\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\PEDRO\Documents\SharpDevelop Projects\proyecto\proyecto\obj\Debug\proyecto.usuario.resources
+C:\Users\PEDRO\Documents\SharpDevelop Projects\proyecto\proyecto\obj\Debug\proyecto.Form1.resources
+C:\Users\PEDRO\Documents\SharpDevelop Projects\proyecto\proyecto\obj\Debug\proyecto.carga.resources
+C:\Users\PEDRO\Documents\SharpDevelop Projects\proyecto\proyecto\obj\Debug\proyecto.cargarArchivos.resources
